@@ -4,8 +4,8 @@
     "symbols.hidesExplorerArrows": false,
     "workbench.iconTheme": "symbols",
     // "editor.fontFamily": "Menlo",
-    "editor.fontSize": 11,
-    "editor.lineHeight": 15,
+    "editor.fontSize": 12,
+    "editor.lineHeight": 28,
     "editor.rulers": [80,120],
     "workbench.startupEditor": "newUntitledFile",
     "editor.foldingHighlight": true,
@@ -14,13 +14,15 @@
     // "editor.semanticHighlighting.enabled": false,
     "editor.minimap.enabled":false,
     "editor.scrollbar.vertical": "hidden",
-    "editor.fontFamily": "Fira Code",
+    "workbench.activityBar.location": "hidden", //esconde ou n o menu esquerdo 
+
+    "editor.fontFamily": "Geneva", //Courier,Candara, //Geneva, //Verdana
     "editor.scrollbar.horizontal": "hidden",
     "workbench.statusBar.visible": false,
     "apc.header": {
         "height": 33
     },
-    "apc.font.family": "Courier New",
+    "apc.font.family": "Verdana",
     "apc.stylesheet": {
         ".title-label > h2": "display: none",
         ".editor-actions": "display: none",
