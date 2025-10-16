@@ -122,4 +122,7 @@
     ],
     "githubPullRequests.createOnPublishBranch": "never",
     "explorer.confirmPasteNative": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "prettier.requireConfig": true
 }
